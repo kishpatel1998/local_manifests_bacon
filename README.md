@@ -1,1 +1,1 @@
-# local_manifests_bacon
+# Local Manifest For Bacon [Oneplus One]
