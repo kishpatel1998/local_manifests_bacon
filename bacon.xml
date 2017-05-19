@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<project path="device/oneplus/bacon" name="AospExtended-Devices/device_oneplus_bacon" remote="github" revision="7.1.1" />
+<project path="device/oneplus/bacon" name="kishpatel1998/android_device_oneplus_bacon" remote="github" revision="xosp-n" />
 <project path="vendor/oneplus" name="TheMuppets/proprietary_vendor_oneplus" remote="github" revision="cm-14.1" />
 <project path="kernel/oneplus/msm8974" name="LineageOS/android_kernel_oneplus_msm8974" remote="github" revision="cm-14.1" />
 <project path="device/oppo/common" name="phantom-1402/android_device_oppo_common_1" remote="github" revision="aex" />
