@@ -3,5 +3,5 @@
 <project path="device/oneplus/bacon" name="AospExtended-Devices/device_oneplus_bacon" remote="github" revision="OOS" />
 <project path="vendor/oneplus" name="XOSP-Devices/proprietary_vendor_oneplus" remote="github" revision="xosp-n-testing" />
 <project path="kernel/oneplus/msm8974" name="ab123321/android_kernel_oneplus_one" remote="github" revision="cm-14.1" />
-<project path="device/oppo/common" name="Shreeesha/android_device_oppo_common" remote="github" revision="n-caf" />
+<project path="device/oppo/common" name="phantom-1402/android_device_oppo_common_1" remote="github" revision="aex" />
 </manifest>
